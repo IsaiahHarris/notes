@@ -1,0 +1,5 @@
+root cd /
+move up cd ..
+mkdir folder 
+touch file name
+ls list
