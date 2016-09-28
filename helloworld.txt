@@ -3,3 +3,12 @@ move up cd ..
 mkdir folder 
 touch file name
 ls list
+traction is proof 
+elevator pitych is a pitch that you can sell in an elevator ride
+example of mobile design is instagram
+mobile design is web app from mobile device
+media queries allow content rendering to conditions such as resolution
+media queries are corner stone of responsive web design
+em unit is equal to the compared to the computed font size
+em = font size 16 if no font size specified
+multiply by 1.5 to change px to em
